@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import './style.css'
 import App from './App.vue'
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from './page/Home.vue'
 import About from './page/About.vue'
 
@@ -16,7 +16,7 @@ const router = createRouter({
             component: About
         }
     ],
-    history: createWebHistory()
+    history: createWebHashHistory()
 })
 
 createApp(App).use(router).mount('#app')
