@@ -25,10 +25,10 @@
     </nav>
 
     <section
-        style="background-image: url('/public/img/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg'); background-position: center center; background-size: cover; background-repeat: no-repeat;"
+        style="background-image: url('/img/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg'); background-position: center center; background-size: cover; background-repeat: no-repeat;"
         class="min-h-screen py-4 px-8 flex justify-center items-center text-slate-700">
         <div class="text-center text-white">
-            <div style="background-image: url('/public/img/profile.jpeg'); background-size: cover; background-position: center center; background-repeat: no-repeat;"
+            <div style="background-image: url('/img/profile.jpeg'); background-size: cover; background-position: center center; background-repeat: no-repeat;"
                 class="border-2 inline-block border-slate-700/50 shadow-xl rounded-full h-25 w-25 mb-2">
             </div>
 
